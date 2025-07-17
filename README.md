@@ -1,6 +1,6 @@
 # Statistics Notebook
 
-This notebook covers foundational and advanced topics in statistics, focusing on concepts critical for data analysis and machine learning.
+This notebook is based on Statistical methods for ML book available at [machinelearningmastery.com](https://machinelearningmastery.com/). It covers fundamental and advanced topics.
 
 ## Key Topics Covered
 
